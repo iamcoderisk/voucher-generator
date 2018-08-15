@@ -1,0 +1,20 @@
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+html,body{
+	font-family:"roboto",sans-serif;
+}
+table th{
+	border:1px solid black;
+	padding:10px;
+	text-align:center;
+	background:#2980B9;
+	color:#fff;
+}
+table td {
+	border:1px solid black;
+	padding:10px;
+	text-align:center;
+}
